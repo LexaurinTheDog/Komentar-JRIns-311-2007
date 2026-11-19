@@ -684,6 +684,15 @@ Správce vede ke každé přihlášce samostatný spis a po skončení řízení
 
 **Důsledky vad vyrozumění.** Vyhláška je neupravuje. Protože konec lhůty je zákonem navázán na doručení vyrozumění, nedoručení nebo zásadně vadné vyrozumění (např. chybějící údaj, co do čeho byla pohledávka popřena) vyvolává výkladovou otázku, zda a kdy lhůta skončí; v pochybnostech je bezpečnější podat žalobu v nejkratší možné lhůtě.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 88/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/56981FC485591269C1258ADD00269AD2?openDocument) — 21. 12. 2023, kat. A
+  > „Na běh lhůty k podání žaloby o určení pravosti a výše nevykonatelné pohledávky popřené insolvenčním správcem nemá žádný vliv okamžik zveřejnění protokolu o přezkumném jednání, při kterém insolvenční správce pohledávku popřel, v insolvenčním rejstříku to platí bez zřetele k tomu, zda jde o třicetidenní lhůtu počítanou od přezkumného jednání, jehož se věřitel popřené pohledávky účastnil, nebo zda jde o patnáctidenní lhůtu počítanou od doručení vyrozumění podle § 197 odst. 2 insolvenčního zákona věřiteli popřené pohledávky (§ 198 odst. 1 insolvenčního zákona)"
+- *NS* [29 NSCR 89/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1D6583093FA9EFDC1258AD8001B8A9A?openDocument) — 30. 11. 2023, kat. A
+  > „Popře-li dlužník, jemuž insolvenční soud povolil oddlužení, na přezkumu konaném v době před schválením oddlužení nevykonatelnou pohledávku věřitele, musí vyrozumění insolvenčního správce o popření nevykonatelné pohledávky dle § 197 odst. 2 insolvenčního zákona obsahovat nad rámec základních náležitostí podle § 13 vyhlášky č. 311/2007 Sb. též poučení o tom, že žalobu o určení pravosti, výše a pořadí pohledávky je nutno podat proti dlužníku. Lhůta pro podání žaloby činí 30 dnů od právní moci rozhodnutí o schválení zprávy o přezkumu a neskončí dříve než 15 dnů od doručení vyrozumění o popření pohledávky. V případě, že dlužníku bude schváleno oddlužení, začne lhůta 30 dnů běžet ode dne, kdy nastanou účinky rozhodnutí o oddlužení (ode dne zveřejnění rozhodnutí o schválení oddlužení v insolvenčním rejstříku), a neskončí dříve než uplynutím 15 dnů od doručení vyrozumění"
+- *NS* [29 Cdo 3582/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DCF1B9511E5C93DC1257A4E00694C4F?openDocument) — 20. 1. 2011, kat. A
+  > „Poučení, jak má v insolvenčním řízení postupovat přihlášený věřitel, jehož nevykonatelná pohledávka byla při přezkumném jednání účinně popřena co do pravosti, výše nebo pořadí, se takovému věřiteli v případě, že je při přezkumném jednání přítomen, má dostat již při tomto jednání. Nestane-li se tak, pak písemné vyrozumění ve smyslu ustanovení § 197 odst. 2 insolvenčního zákona, splňující náležitosti vymezené vyhláškou č. 311/2007 Sb., musí insolvenční správce zaslat nejen těm věřitelům popřené nevykonatelné pohledávky, kteří se přezkumného jednání nezúčastnili, nýbrž i těm věřitelům popřené nevykonatelné pohledávky, kterým se - ač byli přítomni - náležitého poučení při přezkumném jednání nedostalo"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Věřitel D přihlásil nevykonatelnou pohledávku 800 000 Kč (kupní cena 500 000 Kč a smluvní pokuta 300 000 Kč). Přezkumné jednání se konalo 10. 3.; D se nedostavil. Správce popřel pohledávku co do výše 300 000 Kč (smluvní pokuta) a 2. 4. doručil D vyrozumění se všemi náležitostmi § 13. D podá 15. 4. žalobu na určení a vedle smluvní pokuty v ní nově tvrdí nárok na náhradu škody z prodlení.
@@ -848,6 +857,11 @@ Vyrozumění o soupisu musí identifikovat majetek, odůvodnit sepsání a pouč
 
 **Povaha doložky.** Doložka je **deklaratorní**: účinky doručení či zveřejnění nastávají ze zákona okamžikem zveřejnění, nikoli vyznačením doložky. Jako osvědčení soudu se pokládá za pravdivou, není-li prokázán opak (§ 134 OSŘ); rozhodujícím zdrojem zůstává údaj vedený v insolvenčním rejstříku (§ 424 odst. 2 IZ). Rozpor doložky a rejstříku je výkladovou otázkou; účastník by se neměl spoléhat na pozdější z obou údajů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 154/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FDF14A734BDE494EC125876B0018A016?openDocument) — 29. 7. 2021, kat. A
+  > „Je-li den právní moci usnesení insolvenčního soudu současně i dnem dokládajícím jeho doručení zveřejněním v insolvenčním rejstříku i při zvláštním způsobu doručení této písemnosti (§ 74 odst. 2 insolvenčního zákona), pak pravidlo, podle kterého se lhůta k podání opravného prostředku nebo k učinění jiného procesního úkonu (např. k podání žaloby) počítá ode dne právní moci takového usnesení, je nutno vyložit prostřednictvím ustanovení § 74 odst. 2 insolvenčního zákona tak, že tato lhůta běží osobě, které má být usnesení doručeno i zvláštním způsobem, v případě, že takové doručení má následovat až po doručení vyhláškou, ode dne doručení usnesení zvláštním způsobem. Žalobu, kterou insolvenční správce ve smyslu ustanovení § 199 odst. 1 insolvenčního zákona uplatní u insolvenčního soudu své popření vykonatelné pohledávky proti věřiteli, který ji přihlásil, nelze odmítnout jako opožděnou…"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Rozhodnutí o úpadku je zveřejněno v insolvenčním rejstříku 3. 6. v 14:27; doložka na stejnopisu chybně uvádí 4. 6. Dlužník počítá lhůtu k odvolání od 4. 6. a podá odvolání poslední den takto vypočtené lhůty.
@@ -940,6 +954,11 @@ Na pokyn soudu předloží správce listinné podání nebo přílohu také elek
 **Typické oblasti subsidiárního použití.** Organizace soudu a přidělování věcí (§ 2a JRS), nahlížení do spisu pod dozorem (§ 8 JRS), protokolace, doložky na rozhodnutích, doručování a úschovy (§ 113 a násl. JRS). „Přiměřeně" znamená s ohledem na specifika insolvenčního řízení — kolektivní povahu, doručování vyhláškou v insolvenčním rejstříku (§ 71 IZ) a důraz na rychlost.
 
 **Zásady jako korektiv.** Postup podle JRS nelze použít, odporoval-li by zásadám insolvenčního řízení (§ 5 IZ): spravedlivé a rychlé, hospodárné a co nejvyšší uspokojení věřitelů, rovné možnosti věřitelů se stejným postavením, ochrana práv nabytých v dobré víře a zákaz uspokojování mimo insolvenční řízení. Incidenční spory se projednávají při jednání, pro které neplatí ustanovení o jednání v insolvenčním řízení (§ 161 odst. 1 IZ) — JRS se v nich proto uplatní ve větší míře.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 154/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FDF14A734BDE494EC125876B0018A016?openDocument) — 29. 7. 2021, kat. A
+  > „Je-li den právní moci usnesení insolvenčního soudu současně i dnem dokládajícím jeho doručení zveřejněním v insolvenčním rejstříku i při zvláštním způsobu doručení této písemnosti (§ 74 odst. 2 insolvenčního zákona), pak pravidlo, podle kterého se lhůta k podání opravného prostředku nebo k učinění jiného procesního úkonu (např. k podání žaloby) počítá ode dne právní moci takového usnesení, je nutno vyložit prostřednictvím ustanovení § 74 odst. 2 insolvenčního zákona tak, že tato lhůta běží osobě, které má být usnesení doručeno i zvláštním způsobem, v případě, že takové doručení má následovat až po doručení vyhláškou, ode dne doručení usnesení zvláštním způsobem. Žalobu, kterou insolvenční správce ve smyslu ustanovení § 199 odst. 1 insolvenčního zákona uplatní u insolvenčního soudu své popření vykonatelné pohledávky proti věřiteli, který ji přihlásil, nelze odmítnout jako opožděnou…"
 
 #### F. Kazuistika
 

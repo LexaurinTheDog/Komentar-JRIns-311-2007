@@ -2,7 +2,7 @@
 
 > **Znění účinné od 1. července 2017** (dokument e-Sbírky `SB-2007-00311_2017-07-01`; konec účinnosti zdroj neuvádí, jde tedy podle místních podkladů o aktuální znění). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze. Pozdější změny, které místní zdroj nezachycuje, se netvrdí.
 >
-> **Metodická poznámka:** Vyhláška je podzákonný prováděcí předpis k insolvenčnímu zákonu č. 182/2006 Sb. (dále „**IZ**"). Místní materiály k ní neobsahují žádnou kartu rozhodnutí, která by vyhlášku přímo vykládala; komentář proto **neuvádí spisové značky soudních rozhodnutí** a nepředstírá rozhodovací praxi, kterou místní prameny nedokládají. Výklad vychází z textu vyhlášky, z prováděného IZ, z občanského soudního řádu použitelného přes § 7 IZ, z jednacího řádu pro okresní a krajské soudy (vyhláška č. 37/1992 Sb., dále „**JRS**"), z vyhlášky č. 191/2017 Sb. o formulářích, z ústavních mezí podzákonné normotvorby a ze systematiky předpisu. Kde místní prameny otázku neřeší, komentář ji výslovně označuje jako výkladovou otázku.
+> **Metodická poznámka:** Vyhláška je podzákonný prováděcí předpis k insolvenčnímu zákonu č. 182/2006 Sb. (dále „**IZ**"). Místní materiály obsahují **čtyři karty rozhodnutí Nejvyššího soudu** (složka [judikatura/](judikatura/README.md)), které jsou v kapitole 01 vloženy u **§ 13** (29 ICdo 88/2023, 29 NSCR 89/2021, 29 Cdo 3582/2010) a u **§ 16 a § 18** (29 ICdo 154/2020); u každého z těchto ustanovení je za blokem judikatury rozebráno, co karta řeší, jak se promítá do výkladu a kde jsou hranice její použitelnosti. Vyhlášku výslovně zmiňují jen dvě karty (29 NSCR 89/2021 § 13, 29 Cdo 3582/2010 náležitosti vymezené vyhláškou), ostatní vykládají insolvenční zákon; u § 18 je vztah karty jen nepřímý. U ostatních ustanovení komentář spisové značky neuvádí a nepředstírá rozhodovací praxi, kterou místní prameny nedokládají. Výklad vychází z textu vyhlášky, z prováděného IZ, z občanského soudního řádu použitelného přes § 7 IZ, z jednacího řádu pro okresní a krajské soudy (vyhláška č. 37/1992 Sb., dále „**JRS**"), z vyhlášky č. 191/2017 Sb. o formulářích, z ústavních mezí podzákonné normotvorby a ze systematiky předpisu. Kde místní prameny otázku neřeší, komentář ji výslovně označuje jako výkladovou otázku.
 
 ---
 
@@ -25,7 +25,7 @@ Vedle obecného zmocnění odkazuje IZ na prováděcí předpis i ve zvláštní
 
 - **§ 5 odst. 1** — povinnost vyhotovit fiktivní rozhodnutí o vstupu nabyvatele pohledávky, ačkoli podle § 18 odst. 2 IZ není soud povinen je vyhotovit; vyhotovení je proto chápáno jako deklaratorní organizační povinnost, nikoli podmínka účinnosti fikce,
 - **§ 9** — nezveřejňování příloh přihlášek v insolvenčním rejstříku ve vztahu k § 421 odst. 1 písm. b) IZ; ustanovení se vykládá úzce,
-- **§ 13 odst. 2** — poučení o lhůtě k žalobě nepočítá s oddlužením (§ 410 odst. 3 IZ) a odkazuje na zrušený obchodní zákoník; poučení je třeba formulovat podle aktuálního § 198 IZ.
+- **§ 13 odst. 2** — poučení o lhůtě k žalobě nepočítá s oddlužením (§ 410 odst. 3 IZ) a odkazuje na zrušený obchodní zákoník; poučení je třeba formulovat podle aktuálního § 198 IZ. Popřel-li nevykonatelnou pohledávku na přezkumu před schválením oddlužení dlužník, musí vyrozumění nad rámec § 13 poučit i o tom, že žalobu je nutno podat proti dlužníku (karta 29 NSCR 89/2021).
 
 ### Zastaralé vnitřní odkazy
 
@@ -53,12 +53,12 @@ Zrušená ustanovení (§ 11, § 14, část třetí a příloha) se nekomentují
 
 ## Klíčové instituty
 
-- **Minutová přesnost a okamžik zveřejnění.** Vyznačení data, hodiny a minuty podání (§ 2 odst. 1) a doložka o okamžiku zveřejnění v insolvenčním rejstříku (§ 16) umožňují kontrolu zákonných lhůt; účinky zahájení řízení i doručení vyhláškou však váže na okamžik zveřejnění přímo IZ (§ 71, § 109 odst. 4 IZ), doložka je deklaratorní.
+- **Minutová přesnost a okamžik zveřejnění.** Vyznačení data, hodiny a minuty podání (§ 2 odst. 1) a doložka o okamžiku zveřejnění v insolvenčním rejstříku (§ 16) umožňují kontrolu zákonných lhůt; účinky zahájení řízení i doručení vyhláškou však váže na okamžik zveřejnění přímo IZ (§ 71, § 109 odst. 4 IZ), doložka je deklaratorní. Je-li den právní moci usnesení současně dnem jeho doručení zveřejněním, běží osobě, jíž se usnesení doručuje i zvláštním způsobem až po zveřejnění, lhůta počítaná od právní moci od zvláštního doručení (karta 29 ICdo 154/2020 u § 16).
 - **Záznam podle § 85 IZ.** Jednostranná komunikace soudu, o níž nelze sepsat protokol, musí být zprůhledněna záznamem s náležitostmi § 3a odst. 1 písm. a)–g).
 - **Opatření předsedy soudu.** Určení osoby insolvenčního správce a přikázání incidenčního sporu v souladu s rozvrhem práce se činí opatřením, které nemá povahu rozhodnutí, má písemnou formu a zakládá se do insolvenčního spisu (§ 4).
 - **Fikce vstupu nabyvatele pohledávky.** Vyhláška určuje den vydání fiktivního rozhodnutí (čtvrtý pracovní den), vyvratitelnou domněnkou osobu, která je „vydala", a obsah protokolu o společném prohlášení (§ 5).
 - **Hlasování věřitelů.** Způsob hlasování na schůzi, obsah protokolu včetně hlasování jednotlivých věřitelů a odvolání podané do protokolu (§ 6); korespondenční usnesení věřitelského výboru vyžaduje nadpoloviční většinu všech členů a mlčení se počítá jako hlas proti (§ 7).
-- **Přihlášky a přezkum.** Náležitosti výzvy (§ 8), samostatný spis správce ke každé přihlášce a pravidla skartace (§ 10), nahlížení pod dozorem se záznamem (§ 12) a obsah vyrozumění o popření s poučením o lhůtě k žalobě (§ 13).
+- **Přihlášky a přezkum.** Náležitosti výzvy (§ 8), samostatný spis správce ke každé přihlášce a pravidla skartace (§ 10), nahlížení pod dozorem se záznamem (§ 12) a obsah vyrozumění o popření s poučením o lhůtě k žalobě (§ 13); k okruhu adresátů vyrozumění, k jeho obsahu v oddlužení a k nezávislosti lhůty na zveřejnění protokolu o přezkumném jednání jsou u § 13 místní karty Nejvyššího soudu.
 - **Soupis a rozvrh.** Vyrozumění o soupisu s odůvodněním a poučením o vylučovací žalobě (§ 13a); místo plnění rozvrhových částek a úschova u okresního soudu místa plnění (§ 15).
 - **Subsidiarita JRS.** Přiměřené použití jednacího řádu pro okresní a krajské soudy s výhradou odchylné úpravy JRIns a zásad insolvenčního řízení (§ 18).
 
@@ -86,7 +86,7 @@ Vyhláška nabyla účinnosti 1. ledna 2008, týž den jako IZ, s výjimkou § 3
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle místní konsolidace (bez elips), pod ním oddíl `**Výklad:**` s tematickými podnadpisy (u řady ustanovení včetně posouzení vazby na zmocnění a výkladových otázek) a dále oddíly F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr s kontrolním checklistem a přehledem typicky rozhodných podkladů.
 - Komentář důsledně odlišuje **procesní a organizační pravidlo vyhlášky** od **lhůty, účinku nebo procesního práva založeného zákonem**. Kde se znění vyhlášky od IZ odchyluje nebo odkazuje na zrušená ustanovení, uvádí zákonnou úpravu jako rozhodující a navrhuje výklad konformní se zákonem.
-- Komentář **neuvádí spisové značky soudních rozhodnutí**, protože místní materiály k vyhlášce žádnou rozhodovací praxi nedokládají; kazuistiky jsou modelové situace, nikoli popis skutečných řízení. Doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) vycházejí výhradně z doslovných citací kapitoly tohoto repozitáře.
+- Spisové značky soudních rozhodnutí komentář uvádí jen u **§ 13, § 16 a § 18**, a to výhradně z místních karet Nejvyššího soudu ve složce [judikatura/](judikatura/README.md) (4 karty); jejich dosah a hranice použitelnosti rozebírají odstavce „K místní judikaturní kartě …“ za bloky judikatury. U ostatních ustanovení místní materiály rozhodovací praxi nedokládají; kazuistiky jsou modelové situace, nikoli popis skutečných řízení. Doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) vycházejí výhradně z doslovných citací kapitoly tohoto repozitáře.
 
 ---
 

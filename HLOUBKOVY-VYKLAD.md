@@ -9,11 +9,11 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění vyhlášky (citační bloky v kapitole [01](01-jednaci-rad-insolvencni-rizeni.md) a doslovné znění § 1 v [úvodu](00-uvod.md)).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže rozhodnutí; v tomto repozitáři zatím žádný takový zdroj není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže rozhodnutí; v repozitáři jsou čtyři místní karty Nejvyššího soudu (složka [judikatura/](judikatura/README.md)), vložené v kapitole u § 13, § 16 a § 18; jejich dosah a hranice vymezuje vrstva 9.
 - **Syntéza:** autorské propojení textu vyhlášky, prováděného insolvenčního zákona (dále „IZ“), občanského soudního řádu použitelného přes § 7 IZ (dále „OSŘ“), jednacího řádu pro okresní a krajské soudy (dále „JRS“) a výkladu v kapitole.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení (kapitola ji zpravidla označuje slovy „výkladová otázka“).
 
-Místní korpus pro tuto mapu tvoří **2 kapitoly** (úvod a jediná výkladová kapitola 01), **19 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 10, § 12, § 13, § 13a, § 15 až § 18 a § 26, včetně § 3a a § 13a; zrušené § 11, § 14, část třetí a příloha se nekomentují), **29 modalitních příkladů**, **8 zásad** a **0 místních karet rozhodnutí**. Rejstřík ustanovení je k dispozici v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **2 kapitoly** (úvod a jediná výkladová kapitola 01), **19 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 10, § 12, § 13, § 13a, § 15 až § 18 a § 26, včetně § 3a a § 13a; zrušené § 11, § 14, část třetí a příloha se nekomentují), **29 modalitních příkladů**, **8 zásad** a **4 místní karty rozhodnutí** Nejvyššího soudu (vložené u § 13, § 16 a § 18). Rejstřík ustanovení je k dispozici v [INDEX.md](INDEX.md).
 
 Specifikem korpusu je, že komentovaný předpis je **prováděcí vyhláškou a jednacím řádem**. Každé zjištění proto prochází dvojí kontrolou: co stanoví vyhláška a zda to kryje zákonné zmocnění (§ 431 písm. a) a d) IZ, popřípadě zvláštní zmocnění v § 85 odst. 1, § 110 odst. 3 a § 224 odst. 2 IZ). Druhou osou je rozlišení **procesní formy** (kterou smí upravit vyhláška) a **lhůty, účinku nebo procesního práva** (které určuje výlučně zákon).
 
@@ -213,7 +213,7 @@ Místně zachycené časové a pořadové body:
 |---|---|---|---|---|
 | 1 | vyznačení data, hodiny a minuty podání na návrhu (§ 2 odst. 1) | insolvenční soud (krajský soud, § 7a písm. a) IZ) | dojití návrhu | § 97 odst. 1 IZ |
 | 2 | vyhláška o zahájení v elektronické formě (§ 2 odst. 2); organizační zajištění mimo úřední hodiny (§ 3) | soud; předseda soudu | 2 hodiny; mimo úřední hodiny do 2 hodin od jejich zahájení nejbližšího pracovního dne; u oddlužení 3 pracovní dny | § 101 odst. 1 a 2 IZ |
-| 3 | doložka okamžiku zveřejnění (§ 16) | vedoucí soudní kanceláře (§ 6 odst. 9 písm. e) JRS) | okamžik zveřejnění = účinky | § 71, § 109 odst. 4, § 424 odst. 2 IZ |
+| 3 | doložka okamžiku zveřejnění (§ 16) | vedoucí soudní kanceláře (§ 6 odst. 9 písm. e) JRS) | okamžik zveřejnění = účinky; je-li den právní moci současně dnem doručení zveřejněním, běží lhůta počítaná od právní moci osobě, jíž se usnesení doručuje i zvláštním způsobem až po zveřejnění, od zvláštního doručení (karta 29 ICdo 154/2020) | § 71, § 74 odst. 2, § 109 odst. 4, § 424 odst. 2 IZ |
 | 4 | výzva k přihláškám před úpadkem (§ 8) | soud | přihlášky až do rozhodnutí o úpadku; kratší lhůtu nelze určit | § 110 odst. 3 IZ |
 | 5 | určení osoby správce opatřením (§ 4 odst. 1) | předseda soudu | před rozhodnutím o ustanovení | § 25, § 26 IZ |
 | 6 | samostatný spis ke každé přihlášce (§ 10 odst. 1) | správce | po doručení stejnopisu | § 174 odst. 1 IZ |
@@ -221,7 +221,7 @@ Místně zachycené časové a pořadové body:
 | 8 | oznámení místa a času nahlížení, dozor, záznam (§ 12) | správce | po sestavení seznamu, s přiměřeným odstupem před přezkumným jednáním | § 189 odst. 2 IZ |
 | 9 | hlasování a protokol schůze, odvolání do protokolu (§ 6) | soud, věřitelé | do skončení schůze | § 55 odst. 1, § 59 odst. 4 IZ |
 | 10 | korespondenční usnesení výboru (§ 7) | správce, předseda výboru, soud | lhůta stanovená předkladatelem | vyhláška lhůtu neurčuje |
-| 11 | vyrozumění o popření nevykonatelné pohledávky (§ 13) | správce | 30 dnů od přezkumného jednání, nejméně 15 dnů od doručení | § 198 odst. 1 IZ; v oddlužení § 410 IZ |
+| 11 | vyrozumění o popření nevykonatelné pohledávky (§ 13) | správce | 30 dnů od přezkumného jednání, nejméně 15 dnů od doručení; zveřejnění protokolu bez vlivu (karta 29 ICdo 88/2023); při popření dlužníkem v oddlužení 30 dnů od právní moci schválení zprávy o přezkumu, po schválení oddlužení od jeho zveřejnění, nejméně 15 dnů od doručení (karta 29 NSCR 89/2021) | § 198 odst. 1 IZ; v oddlužení § 410 IZ |
 | 12 | vyrozumění o soupisu (§ 13a) | správce | 30 dnů od doručení; rozhoduje dojití žaloby | § 225 odst. 2 IZ |
 | 13 | elektronická podoba podání na pokyn soudu (§ 17) | správce | bez zbytečného odkladu, nejpozději 3 dny | § 17 JRIns; § 57 OSŘ |
 | 14 | místo plnění v návrhu rozvrhového usnesení, úschova (§ 15) | správce | 30 dnů od rozvrhového usnesení; částky do 500 Kč kdykoli | § 307 odst. 3 IZ |
@@ -256,11 +256,12 @@ Místní formulace o důkazní hodnotě a riziku nejistoty:
 | Rozhodná skutečnost | Typický důkaz | Kdo jej opatřuje | Riziko neprokázání nese |
 |---|---|---|---|
 | okamžik podání návrhu | vyznačení podle § 2 odst. 1, záznam o dodání datové zprávy | soud | ten, kdo tvrdí opak vyznačení (§ 134 OSŘ) |
-| okamžik zveřejnění a doručení vyhláškou | údaj v insolvenčním rejstříku, doložka podle § 16 | soud | účastník, který se spolehne jen na doložku |
+| okamžik zveřejnění a doručení vyhláškou | údaj v insolvenčním rejstříku, doložka podle § 16 | soud | účastník, který se spolehne jen na doložku (u nesprávně vyznačené doložky právní moci chrání správce karta 29 ICdo 154/2020) |
 | obsah jednostranné komunikace soudu | záznam podle § 3a s přílohami | soud | soud — rozhodnutí bez záznamu musí obstát na jiných podkladech |
 | dodržení pořadí správců | písemné opatření, seznam správců, odůvodnění | předseda soudu | předseda soudu (kontrolovatelnost) |
 | kdo jak hlasoval | protokol, výstup hlasovacího zařízení, hlasovací lístky | soud | věřitel, jehož legitimace k § 54 a § 55 IZ nelze ověřit |
 | doručení vyrozumění (§ 13, § 13a) | doklad o doručení ve spisu správce | správce | správce u konce lhůty; věřitel, spoléhá-li na nedoručení |
+| náležité poučení přítomného věřitele při přezkumném jednání (§ 13) | protokol o přezkumném jednání | soud, správce | správce — chybí-li doklad o náležitém poučení, musí věřiteli zaslat vyrozumění (karta 29 Cdo 3582/2010) |
 | poskytnutí možnosti nahlédnout | záznam o nahlédnutí s délkou a podpisy | správce | správce |
 | marné uplynutí výzvy k vyzvednutí originálů | výzva s poučením, doklad o doručení, skartační protokol | správce | správce (odpovědnost za škodu) |
 
@@ -301,7 +302,8 @@ Vyhláška sama sankce nestanoví; následky porušení jejích pravidel plynou 
 | § 7 odst. 2 | usnesení „přijaté“ bez absolutní většiny | usnesení není přijato | soud v rámci dohledu | nové hlasování, schůze výboru |
 | § 10, § 12, § 13, § 13a, § 17 | povinnosti správce nesplněny | dohlédací opatření, pořádková pokuta | insolvenční soud (§ 11, § 81 odst. 2 IZ) | podnět věřitele soudu |
 | § 10 odst. 2 | předčasná skartace, skartace bez výzvy | odpovědnost správce za škodu | poškozený vlastník listiny | žaloba na náhradu škody |
-| § 13, § 13a | vadné nebo nedoručené vyrozumění | nejistota o konci lhůty; zákonné následky § 198 a § 225 odst. 3 IZ trvají | soud v incidenčním sporu | včasná žaloba v nejkratší lhůtě |
+| § 13, § 13a | vadné nebo nedoručené vyrozumění | nejistota o konci lhůty (vyrozumění musí dostat i přítomný věřitel bez náležitého poučení — karta 29 Cdo 3582/2010); zákonné následky § 198 a § 225 odst. 3 IZ trvají | soud v incidenčním sporu | včasná žaloba v nejkratší lhůtě |
+| § 13 v oddlužení | vyrozumění o popření dlužníkem bez poučení o žalobě proti dlužníku | poučení v rozporu s kartou 29 NSCR 89/2021; následky karta neřeší | soud v incidenčním sporu; insolvenční soud v rámci dohledu | včasná žaloba proti dlužníku |
 | kterékoli ustanovení v rozporu s IZ | vyhláška zakládá povinnost nebo účinek bez opory v zákoně | soud ustanovení v rozsahu rozporu neaplikuje | soud (čl. 95 odst. 1 Ústavy) | námitka nezákonnosti vyhlášky |
 
 Těžiště ochrany proto neleží ve vyhlášce, ale ve **dvou zákonných kanálech**: dohlédací činnosti insolvenčního soudu vůči správci a opravných prostředcích proti rozhodnutím, na která úkon podle vyhlášky navazuje. Vady úkonů podle vyhlášky se zpravidla promítnou do přezkoumatelnosti navazujícího rozhodnutí, nikoli do neplatnosti samotného úkonu.
@@ -317,34 +319,56 @@ Těžiště ochrany proto neleží ve vyhlášce, ale ve **dvou zákonných kan�
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/` ani žádnou kartu rozhodnutí; složka bude doplněna strojově později. Soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 citací spisových značek** rozhodovací praxe. Místní úvod to uvádí výslovně: „Místní materiály k ní neobsahují žádnou kartu rozhodnutí, která by vyhlášku přímo vykládala; komentář proto neuvádí spisové značky soudních rozhodnutí a nepředstírá rozhodovací praxi, kterou místní prameny nedokládají.“ Poznámka k metodě dodává, že „kazuistiky jsou modelové situace, nikoli popis skutečných řízení“.
-Místní korpus tedy neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se nesmí domýšlet a žádná teze v tomto souboru nemá povahu **Judikatury** ve smyslu epistemického označení výše.
+Repozitář obsahuje složku [judikatura/](judikatura/README.md) se **4 kartami rozhodnutí Nejvyššího soudu** (všechny kategorie A). V kapitole 01 jsou vloženy do bloků „Judikatura (z místních zdrojů)“ u **3 z 19** komentovaných ustanovení (§ 13, § 16 a § 18; celkem 5 citací) a za každým blokem následuje rozbor „K místní judikaturní kartě …“ (co karta řeší, jak se promítá do výkladu, hranice použitelnosti). Soubor zásad na karty odkazuje u zásad 1, 2 a 6. Místní úvod k povaze karet uvádí: „Vyhlášku výslovně zmiňují jen dvě karty (29 NSCR 89/2021 § 13, 29 Cdo 3582/2010 náležitosti vymezené vyhláškou), ostatní vykládají insolvenční zákon; u § 18 je vztah karty jen nepřímý.“ U ostatních ustanovení platí, že „kazuistiky jsou modelové situace, nikoli popis skutečných řízení“.
 
-**Syntéza — priority pro budoucí karty rozhodnutí.** Až bude `judikatura/` doplněna, je třeba každou kartu přiřadit k některé z otázek, které kapitola sama označuje za otevřené, a ověřit, zda rozhodnutí vykládalo stejné znění vyhlášky (před 1. 7. 2017, nebo po něm) a stejné znění IZ:
+| Karta | Datum | Vložena u | Nosný závěr | Co vykládá | Hranice použitelnosti |
+|---|---|---|---|---|---|
+| [NS 29 ICdo 88/2023](judikatura/NS-29-ICdo-88-2023.md) | 21. 12. 2023 | § 13 | zveřejnění protokolu o přezkumném jednání v rejstříku nemá vliv na třicetidenní lhůtu od přezkumného jednání ani na patnáctidenní lhůtu od doručení vyrozumění | IZ (§ 197 odst. 2, § 198 odst. 1); § 13 nezmiňuje | žaloba o určení pravosti a výše pohledávky popřené správcem; popření dlužníkem v oddlužení ani lhůtu od právní moci neřeší |
+| [NS 29 NSCR 89/2021](judikatura/NS-29-NSCR-89-2021.md) | 30. 11. 2023 | § 13 | při popření dlužníkem s povoleným oddlužením na přezkumu před schválením oddlužení musí vyrozumění nad rámec § 13 poučit o žalobě proti dlužníku; lhůta 30 dnů od právní moci schválení zprávy o přezkumu, po schválení oddlužení od jeho zveřejnění, vždy nejméně 15 dnů od doručení | § 197 odst. 2 IZ ve spojení s § 13 vyhlášky — jediná karta, která § 13 výslovně jmenuje | jen popření dlužníkem v oddlužení; pro popření správcem nic neplyne; následky chybějícího poučení neřeší |
+| [NS 29 Cdo 3582/2010](judikatura/NS-29-Cdo-3582-2010.md) | 20. 1. 2011 | § 13 | písemné vyrozumění musí dostat i přítomný věřitel, jemuž se při přezkumném jednání nedostalo náležitého poučení | § 197 odst. 2 IZ; vyhláška jen jako měřítko náležitostí | rozhodnutí před novelou vyhláškou č. 70/2011 Sb. (účinnost 31. 3. 2011) i před konsolidací od 1. 7. 2017; ověřit, zda se § 197 odst. 2 IZ nezměnil; běh lhůty neřeší |
+| [NS 29 ICdo 154/2020](judikatura/NS-29-ICdo-154-2020.md) | 29. 7. 2021 | § 16, § 18 | je-li den právní moci současně dnem doručení zveřejněním, lhůta počítaná od právní moci běží osobě, jíž se usnesení doručuje i zvláštním způsobem až po doručení vyhláškou, od zvláštního doručení (§ 74 odst. 2 IZ); žalobu správce podle § 199 odst. 1 IZ nelze odmítnout jako opožděnou, řídil-li se nesprávnou doložkou právní moci; lhůta neskončí dříve než dnem vyznačení doložky | IZ (§ 74 odst. 2, § 160 odst. 4, § 199 odst. 1, § 410 odst. 3 písm. a)); vyhlášku nezmiňuje | doložka právní moci, nikoli doložka podle § 16; ochrana formulována jen pro žalobu správce; k § 18 jen nepřímý vztah |
 
-| Otázka | Ustanovení | Proč je judikatura rozhodující |
-|---|---|---|
-| lze v odvolání proti ustanovení správce namítat nedodržení pořadí? | § 4 odst. 1; § 25, § 26 IZ | jediný přezkumný kanál vůči opatření předsedy |
-| je vyhotovení fiktivního rozhodnutí o vstupu podmínkou účinnosti fikce? | § 5 odst. 1; § 18 odst. 2 IZ | střet vyhlášky a zákona |
-| lze vady odvolání podaného do protokolu odstranit po skončení schůze? | § 6 odst. 3; § 55 IZ | ztráta práva na opravný prostředek |
-| kdo tvoří jmenovatel „všech členů“ výboru a uplatní se náhradníci? | § 7 odst. 2; § 53, § 58 IZ | platnost korespondenčního usnesení |
-| je nezveřejnění příloh v souladu s § 421 IZ? | § 9 | zákonnost vyhlášky |
-| začíná lhůta běžet doručením vadného vyrozumění? | § 13, § 13a; § 198, § 225 IZ | ztráta práva na žalobu |
-| jak chránit účastníka při rozporu doložky a rejstříku? | § 16; § 71, § 424 IZ | počátek lhůt |
-| má chybějící záznam podle § 85 IZ povahu vady řízení? | § 3a | přezkoumatelnost rozhodnutí |
+Místní korpus tedy poskytuje judikatorní teze jen k vyrozumění o popření (§ 13) a k počátku lhůt a doložce právní moci (§ 16, nepřímo § 18). U ostatních 16 ustanovení judikatorní teze chybí a nesmí se domýšlet; tvrzení mimo karty nemají povahu **Judikatury** ve smyslu epistemického označení výše.
+
+**Syntéza — stav výkladových otázek po doplnění karet.** Každá karta byla přiřazena k otázkám, které kapitola označovala za otevřené, a u každé bylo ověřeno, které znění vykládala (viz hranice v tabulce výše).
+
+*Otázky vyřešené místními kartami:*
+
+| Otázka | Ustanovení | Řešení | Karta |
+|---|---|---|---|
+| musí písemné vyrozumění dostat i věřitel přítomný na přezkumném jednání? | § 13; § 197 odst. 2 IZ | ano, nedostalo-li se mu tam náležitého poučení | 29 Cdo 3582/2010 (ověřit rozhodné znění IZ) |
+| jak poučit při popření dlužníkem v oddlužení (žalovaný, počátek lhůty)? | § 13 odst. 2; § 198, § 410 IZ | žaloba proti dlužníku; 30 dnů od právní moci schválení zprávy o přezkumu, po schválení oddlužení od jeho zveřejnění, nejméně 15 dnů od doručení | 29 NSCR 89/2021 |
+| ovlivňuje zveřejnění protokolu o přezkumném jednání lhůtu k popěrné žalobě věřitele? | § 13; § 198 odst. 1 IZ | ne, ani třicetidenní, ani patnáctidenní lhůtu | 29 ICdo 88/2023 |
+| od kdy běží lhůta počítaná od právní moci osobě, jíž se usnesení doručuje i zvláštním způsobem? | § 16; § 74 odst. 2 IZ | ode dne zvláštního doručení, následuje-li po doručení vyhláškou a je-li den právní moci současně dnem doručení zveřejněním | 29 ICdo 154/2020 |
+| nese správce následky nesprávně vyznačené doložky právní moci? | § 16, nepřímo § 18; § 199 odst. 1, § 410 odst. 3 písm. a) IZ | ne; žalobu nelze odmítnout jako opožděnou, lhůta neskončí dříve než dnem vyznačení doložky | 29 ICdo 154/2020 |
+
+*Otázky, které karty neřeší nebo řeší jen částečně:*
+
+| Otázka | Ustanovení | Stav | Proč je judikatura rozhodující |
+|---|---|---|---|
+| lze v odvolání proti ustanovení správce namítat nedodržení pořadí? | § 4 odst. 1; § 25, § 26 IZ | otevřená | jediný přezkumný kanál vůči opatření předsedy |
+| je vyhotovení fiktivního rozhodnutí o vstupu podmínkou účinnosti fikce? | § 5 odst. 1; § 18 odst. 2 IZ | otevřená | střet vyhlášky a zákona |
+| lze vady odvolání podaného do protokolu odstranit po skončení schůze? | § 6 odst. 3; § 55 IZ | otevřená | ztráta práva na opravný prostředek |
+| kdo tvoří jmenovatel „všech členů“ výboru a uplatní se náhradníci? | § 7 odst. 2; § 53, § 58 IZ | otevřená | platnost korespondenčního usnesení |
+| je nezveřejnění příloh v souladu s § 421 IZ? | § 9 | otevřená | zákonnost vyhlášky |
+| začíná lhůta běžet doručením obsahově vadného vyrozumění? | § 13, § 13a; § 198, § 225 IZ | částečně: karty určují okruh adresátů (29 Cdo 3582/2010) a vylučují vliv zveřejnění protokolu (29 ICdo 88/2023); důsledky vady obsahu neřeší | ztráta práva na žalobu |
+| jak chránit účastníka při rozporu doložky podle § 16 a rejstříku? | § 16; § 71, § 424 IZ | částečně: 29 ICdo 154/2020 chrání jen toho, kdo se řídil nesprávnou doložkou právní moci (žaloba správce); pro doložku podle § 16 jen argument | počátek lhůt |
+| má chybějící záznam podle § 85 IZ povahu vady řízení? | § 3a | otevřená | přezkoumatelnost rozhodnutí |
+| kde je hranice přiměřeného použití JRS a rozporu se zásadami? | § 18 | otevřená; 29 ICdo 154/2020 se k ní vztahuje jen nepřímo | rozsah subsidiarity |
 
 **Hloubkový test.**
-- U každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
-- Ověřte, zda soud vykládal stejné znění vyhlášky a IZ, stejný právní problém a zda závěr nebyl později odlišen nebo překonán; u rozhodnutí z doby před 1. 7. 2017 ověřte, zda se netýká zrušených § 11, § 14 nebo části třetí.
-- Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (např. konkrétní délka lhůty u korespondenčního hlasování).
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; do doplnění karet zůstává každá otázka ve stavu **Otevřená otázka**.
+- U každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady; u karet s výpustkou v kapitole (29 ICdo 154/2020) pracujte s plným zněním právní věty v kartě.
+- Ověřte, zda soud vykládal stejné znění vyhlášky a IZ, stejný právní problém a zda závěr nebyl později odlišen nebo překonán; u karty 29 Cdo 3582/2010 (20. 1. 2011) ověřte znění IZ a vyhlášky před 31. 3. 2011, u ostatních karet znění IZ k době úkonu.
+- Odlišujte kartu, která vykládá vyhlášku (29 NSCR 89/2021), od karet, které vykládají IZ a do výkladu vyhlášky se promítají jen zprostředkovaně (29 ICdo 88/2023, 29 ICdo 154/2020, převážně 29 Cdo 3582/2010).
+- Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (např. popření dlužníkem v oddlužení nelze přenést na popření správcem; ochranu u doložky právní moci nelze bez dalšího přenést na doložku podle § 16).
+- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; každá karta je v místních zdrojích jediným rozhodnutím ke své otázce, o ustálené linii proto z místních zdrojů hovořit nelze. Otázky bez karty zůstávají ve stavu **Otevřená otázka**.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md) (část Metoda); [Metodická poznámka](00-uvod.md); [Poznámka k metodě](00-uvod.md)
+**Místní opora.** [složka judikatura/](judikatura/README.md); [§ 13](01-jednaci-rad-insolvencni-rizeni.md); [§ 16](01-jednaci-rad-insolvencni-rizeni.md); [§ 18](01-jednaci-rad-insolvencni-rizeni.md); [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md) (zásady 1, 2 a 6); [Metodická poznámka](00-uvod.md); [Poznámka k metodě](00-uvod.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
 **Zjištění z místního komentáře.**
-Kapitola obsahuje u každého z 19 ustanovení oddíl **G. Protiargumenty a rizika**; v něm je **22 výslovných neutralizací** námitek, **12 označených slabých míst** a řada výslovných **výkladových otázek** (nejvíce u § 3a, § 13, § 13a a § 5). Úvod soustřeďuje tři napětí mezi vyhláškou a zákonem (§ 5 odst. 1, § 9, § 13 odst. 2) a komentář je řeší výkladem souladným se zákonem.
+Kapitola obsahuje u každého z 19 ustanovení oddíl **G. Protiargumenty a rizika**; v něm je **27 výslovných neutralizací** námitek (z toho 5 doplněných podle místních karet u § 13, § 16 a § 18; u § 18 jen nepřímá), **12 označených slabých míst** a řada výslovných **výkladových otázek** (nejvíce u § 3a, § 13, § 13a a § 5). Úvod soustřeďuje tři napětí mezi vyhláškou a zákonem (§ 5 odst. 1, § 9, § 13 odst. 2) a komentář je řeší výkladem souladným se zákonem.
 
 **Syntéza — katalog sporných výkladů.**
 
@@ -362,11 +386,13 @@ Kapitola obsahuje u každého z 19 ustanovení oddíl **G. Protiargumenty a rizi
 - *Výklad A:* § 13 upravuje formu úkonu, k němuž zákon správce zavazuje, a je proto kryt zmocněním k jednacímu řádu: „Vyhláška proto může určit obsah vyrozumění, nemůže však měnit lhůty a následky stanovené v § 198 IZ.“
 - *Výklad B:* vyrozumění není uvedeno ani v § 1, ani mezi náležitostmi v § 431 písm. a) IZ; ustanovení by bylo bez zmocnění.
 - *Preference komentáře:* výklad A s omezením, že vyhláška nemůže měnit zákonné lhůty ani účinky.
+- *Judikatura:* karty 29 NSCR 89/2021 a 29 Cdo 3582/2010 pracují s náležitostmi podle vyhlášky jako s měřítkem obsahu vyrozumění; otázku zmocnění neřeší, zůstává proto otevřená.
 
 **(4) Zastaralé poučení v § 13 odst. 2 (oddlužení, obchodní zákoník).**
 - *Výklad A — doslovné poučení podle vyhlášky:* zavádějící v oddlužení, kde „v oddlužení je počátek lhůty podle § 198 odst. 1 IZ vázán na právní moc rozhodnutí o schválení zprávy o přezkumu — správce musí poučení formulovat podle zákona“.
 - *Výklad B — poučení podle aktuálního § 198 IZ:* k výjimce týkající se prodeje podniku komentář uvádí: „Jak tuto změnu promítnout do výjimky v § 198 odst. 2 IZ, je výkladovou otázkou; poučení je vhodné formulovat doslovně podle zákona.“
 - *Preference komentáře:* výklad B; text vyhlášky je třeba číst konformně se zákonem.
+- *Stav:* pro popření dlužníkem v oddlužení **vyřešeno** kartou 29 NSCR 89/2021 — vyrozumění musí nad rámec § 13 poučit o žalobě proti dlužníku a o počátku lhůty podle zákona; výjimka týkající se prodeje podniku zůstává otevřená.
 
 **(5) Odkaz na zrušený § 21 odst. 2 (§ 3a odst. 2, § 13a odst. 3).**
 - *Výklad A — odkaz je obsoletní a nepoužije se:* označení osoby se řídí jen druhou částí věty § 3a odst. 2.
@@ -392,11 +418,13 @@ Kapitola obsahuje u každého z 19 ustanovení oddíl **G. Protiargumenty a rizi
 - *Výklad A — lhůta neběží:* bez řádného vyrozumění nemohl adresát o žalobě rozhodnout.
 - *Výklad B — lhůta běží podle zákona:* zákonné lhůty a následky (§ 198, § 225 IZ) vyhláška měnit nemůže.
 - *Stav:* u § 13a „Chybí-li ve vyrozumění zákonem vyžadované poučení, vzniká výkladová otázka, zda doručení takového vyrozumění spouští lhůtu podle § 225 odst. 2 IZ.“ Praktická rada komentáře je u obou ustanovení stejná: nespoléhat na neúčinnost a žalovat ve lhůtě.
+- *Judikatura (jen částečně):* u § 13 karta 29 Cdo 3582/2010 určuje, že vyrozumění musí dostat i přítomný věřitel bez náležitého poučení, a karta 29 ICdo 88/2023 vylučuje, aby se lhůta odvozovala od zveřejnění protokolu o přezkumném jednání; důsledky obsahově vadného vyrozumění a celý § 13a zůstávají otevřené.
 
 **(10) Rozpor doložky a insolvenčního rejstříku (§ 16).**
 - *Výklad A:* rozhoduje rejstřík (§ 424 odst. 2 IZ), doložka je vyvratitelné osvědčení.
 - *Výklad B:* účastník spoléhající na chybnou doložku soudu má být chráněn.
 - *Stav:* „Zda lze účastníka chránit s ohledem na chybu soudu, je výkladovou otázkou; bezpečné je vždy ověřit okamžik zveřejnění přímo v rejstříku.“
+- *Judikatura (jen argument):* karta 29 ICdo 154/2020 řeší nesprávně vyznačenou doložku právní moci (ochrana správce při žalobě podle § 199 odst. 1 IZ) a počátek lhůty u osoby se zvláštním doručením; pro doložku podle § 16 je argumentem pro výklad B, nikoli rozhodnutím otázky.
 
 **(11) Další hraniční případy, které kapitola výslovně ponechává otevřené:**
 - § 2 — elektronicky podaný návrh: „technický způsob (záznam systému o dodání) je výkladovou a organizační otázkou“;
@@ -410,9 +438,11 @@ Kapitola obsahuje u každého z 19 ustanovení oddíl **G. Protiargumenty a rizi
 - § 18 — hranice rozporu se zásadami insolvenčního řízení je podle slabého místa uvedeného v kapitole neurčitá a „vyžaduje úvahu v konkrétní věci“;
 - § 26 — úkon, jehož lhůta běží přes 1. 7. 2017 (viz vrstva 1).
 
+**(12) Otázky vyřešené místními kartami** (podrobně vrstva 9): okruh adresátů písemného vyrozumění (29 Cdo 3582/2010), žalovaný a počátek lhůty při popření dlužníkem v oddlužení (29 NSCR 89/2021), nezávislost lhůty k popěrné žalobě na zveřejnění protokolu o přezkumném jednání (29 ICdo 88/2023), počátek lhůty od právní moci u osoby se zvláštním doručením a ochrana správce při nesprávné doložce právní moci (29 ICdo 154/2020).
+
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu; u vyhlášky vždy včetně varianty, že ustanovení je v rozsahu rozporu se zákonem neaplikovatelné.
-- U každé varianty uveďte textový, systematický (vztah k IZ, OSŘ a JRS), účelový a — po doplnění `judikatura/` — judikatorní argument.
+- U každé varianty uveďte textový, systematický (vztah k IZ, OSŘ a JRS), účelový a — je-li k otázce místní karta (vrstva 9) — judikatorní argument.
 - Porovnejte praktické následky variant pro adresáta (ztráta práva, odpovědnost správce, zákonný soudce) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty, označte nejistotu a doporučte postup, který minimalizuje riziko ztráty práva (zejména včasnou žalobu).
 
@@ -475,10 +505,10 @@ Kapitola 01 obsahuje **19 modelových situací**, **19 výslovných subsumpcí**
 | 9 | věřitel žádá zveřejnění příloh cizí přihlášky | příloha × přihláška | nahlížení u správce, ne zveřejnění | žadatel není účastníkem — § 44 odst. 2 OSŘ |
 | 10 | skartace originálu směnky po marné výzvě | 5 měsíců od právní moci, výzva s poučením | správce neodpovídá | žaloba pro zmatečnost — vyčkat |
 | 12 | jedna hodina nahlížení tři dny před přezkumem | přiměřenost termínů | dohlédací opatření, případně odročení | elektronické zpřístupnění dokladů |
-| 13 | žaloba 15. 4., vyrozumění doručeno 2. 4. | pozdější z konců lhůt | žaloba včasná; nové skutečnosti nepřípustné | oddlužení — jiný počátek lhůty |
+| 13 | žaloba 15. 4., vyrozumění doručeno 2. 4. | pozdější z konců lhůt | žaloba včasná; nové skutečnosti nepřípustné | oddlužení — jiný počátek lhůty, při popření dlužníkem žaloba proti dlužníku (29 NSCR 89/2021); pozdní zveřejnění protokolu bez vlivu (29 ICdo 88/2023); přítomný věřitel bez poučení — vyrozumění nutné (29 Cdo 3582/2010) |
 | 13a | vylučovací žaloba odeslána poštou poslední den | dojití soudu | žaloba opožděná, soupis oprávněný | podání elektronicky poslední den |
 | 15 | věřitel se nedostaví k výplatě, jiný má 320 Kč | § 307 odst. 3 × odst. 4 IZ | úschova u okresního soudu místa plnění | sporná pohledávka — insolvenční soud |
-| 16 | doložka uvádí o den pozdější datum než rejstřík | okamžik zveřejnění | lhůta od zveřejnění; odvolání opožděné | doložka chybí — účinky trvají |
+| 16 | doložka uvádí o den pozdější datum než rejstřík | okamžik zveřejnění | lhůta od zveřejnění; odvolání opožděné | doložka chybí — účinky trvají; lhůta od právní moci u osoby se zvláštním doručením po zveřejnění; nesprávná doložka právní moci a žaloba správce (obojí 29 ICdo 154/2020) |
 | 17 | elektronická verze zprávy předložena v pátek, pokyn doručen v pondělí | tři dny od doručení | opoždění; napomenutí či pokuta | listinná příloha třetí osoby — sken |
 | 18 | nahlížení do spisu incidenčního sporu | JRIns otázku neupravuje | § 8 JRS přiměřeně, okruh osob podle § 44 OSŘ | průtahy — korektiv zásady rychlosti |
 | 26 | posouzení postupu podle § 5 v červnu 2017 | znění účinné v době úkonu | použije se dřívější znění | lhůta přes 1. 7. 2017 — otevřená otázka |
@@ -498,7 +528,7 @@ Kapitola 01 obsahuje **19 modelových situací**, **19 výslovných subsumpcí**
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **2 kapitolami** (úvod a kapitola 01). Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní karty rozhodnutí zatím nejsou; složka `judikatura/` bude doplněna strojově a do té doby nelze uvést žádnou judikatorní tezi (vrstva 9);
+- místní karty rozhodnutí (4 karty Nejvyššího soudu) pokrývají jen § 13, § 16 a § 18; u ostatních 16 ustanovení judikatorní teze chybí; karta 29 Cdo 3582/2010 pochází z doby před novelou vyhláškou č. 70/2011 Sb. a karty vykládají převážně IZ (vrstva 9);
 - místní důvodová zpráva ani odůvodnění vyhlášky a změnových vyhlášek č. 70/2011 Sb., č. 397/2013 Sb. a č. 191/2017 Sb. v repozitáři nejsou; jejich obsah je zachycen jen zprostředkovaně ve výkladu;
 - místní konsolidace vyhlášky je účinná od 1. 7. 2017 a místní podklady nezachycují žádnou pozdější změnu; úvod to vyjadřuje větou „Pozdější změny, které místní zdroj nezachycuje, se netvrdí.“;
 - komentář vykládá zákonné vazby podle IZ „v místně dostupném aktuálním znění IZ“, jehož datum konsolidace kapitola neuvádí; čísla citovaných ustanovení IZ je proto třeba ověřit k rozhodnému dni;
@@ -518,12 +548,12 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Komentář k vyhlášce č. 311/2007 Sb. — úvod](00-uvod.md) | ano | nenalezeno | omezeně | mezera | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — celá vyhláška (§ 1–26)](01-jednaci-rad-insolvencni-rizeni.md) | ano | ano | ano | mezera | ano | ano | ano | ano |
+| [Komentář k vyhlášce č. 311/2007 Sb. — úvod](00-uvod.md) | ano | nenalezeno | omezeně | odkaz na 4 karty | ano | ano | nenalezeno | ano |
+| [Kapitola 1 — celá vyhláška (§ 1–26)](01-jednaci-rad-insolvencni-rizeni.md) | ano | ano | ano | ano (§ 13, § 16, § 18; jinde mezera) | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál chybí v obou kapitolách; po strojovém doplnění `judikatura/` je nutné projít tabulku otázek z vrstvy 9.
+- **Judikatura:** karty jsou zapracovány u § 13, § 16 a § 18 (rozbory „K místní judikaturní kartě …“) a přiřazeny k otázkám ve vrstvě 9; u 16 ustanovení zůstává mezera. U karty 29 Cdo 3582/2010 ověřit, zda se § 197 odst. 2 IZ od roku 2011 nezměnil; u karty 29 ICdo 154/2020 nepřenášet ochranu z doložky právní moci na doložku podle § 16 bez dalšího.
 - **Důkazy a aplikace v úvodu:** úvod nemá samostatné důkazní uzly ani kazuistiky; to odpovídá jeho přehledové funkci.
 - **Zákonné odkazy:** ověřit v rozhodném znění IZ zejména § 7, § 18, § 25, § 26, § 49, § 54, § 55, § 58, § 85, § 101, § 109, § 110, § 174, § 177, § 189, § 197, § 198, § 224, § 225, § 307, § 410, § 421 až § 424 a § 431 IZ.
 - **Napětí vyhlášky a zákona:** § 5 odst. 1, § 9 a § 13 odst. 2 — při každé aktualizaci prověřit, zda změna IZ nebo vyhlášky napětí neodstranila nebo neprohloubila.
@@ -548,7 +578,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 | Proces | příslušnost, sled kroků, forma, lhůta (zákonná × vyhlášková), přezkum | seznam paragrafů bez časové osy |
 | Důkazy | znak, skutečnost, důkaz, břemeno, vyvratitelnost osvědčení | nahrazení zveřejnění v rejstříku doložkou nebo vyznačením |
 | Následky | porušená norma, zákonný následek, ochrana, nositel rizika | směšování neúčinnosti, vady podání, odpovědnosti a dohlédací sankce |
-| Judikatura | ratio, kontext, dosah, vývoj linie; do doplnění `judikatura/` výslovná mezera | izolovaná právní věta bez skutků nebo domyšlené rozhodnutí |
+| Judikatura | ratio, kontext, dosah, vývoj linie, vykládaný předpis (IZ × vyhláška), rozhodné znění; u ustanovení bez místní karty výslovná mezera | izolovaná právní věta bez skutků, přenesení závěru karty na jinou procesní situaci nebo domyšlené rozhodnutí |
 | Sporné výklady | nejsilnější varianty včetně varianty nezákonnosti vyhlášky a důvod preference | potlačení rozumného protiargumentu |
 | Vazby | přednost IZ, OSŘ přes § 7 IZ, JRS přes § 18 JRIns, vyhláška č. 191/2017 Sb., ústavní limit | pouhý seznam souvisejících předpisů |
 | Aplikace | skutky, data, pravidlo, důkazy, subsumpce, výsledek, varianta | příklad bez výslovného naplnění znaků |

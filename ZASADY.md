@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění vyhlášky a výklad v kapitole [01-jednaci-rad-insolvencni-rizeni.md](01-jednaci-rad-insolvencni-rizeni.md) a úvodní výklad v [00-uvod.md](00-uvod.md). Repozitář neobsahuje žádnou místní judikaturu k vyhlášce; **zásady níže proto nejsou opřeny o spisové značky soudních rozhodnutí**, ale jsou dovozeny z textu vyhlášky, z jejího vztahu k insolvenčnímu zákonu (dále „IZ") a ze systematiky předpisu. Každá zásada je doložena **doslovnou citací** z kapitoly; u každé citace je uveden soubor a paragraf a rozlišeno, zda jde o znění vyhlášky, nebo o text výkladu. Tam, kde by u zavedeného předpisu stála judikatorní citace, je namístě poctivě uvést, že opora dosud chybí.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění vyhlášky a výklad v kapitole [01-jednaci-rad-insolvencni-rizeni.md](01-jednaci-rad-insolvencni-rizeni.md) a úvodní výklad v [00-uvod.md](00-uvod.md). Repozitář obsahuje čtyři místní karty rozhodnutí Nejvyššího soudu (složka [judikatura/](judikatura/README.md)), vložené v kapitole u § 13, § 16 a § 18. **Zásady níže jsou dovozeny z textu vyhlášky, z jejího vztahu k insolvenčnímu zákonu (dále „IZ") a ze systematiky předpisu**; kde zásada souvisí s některou kartou (zásady 1, 2 a 6), je u ní v odstavci „Místní judikatura“ uveden odkaz na kartu a vymezeno, co karta k zásadě skutečně říká a kde jsou hranice jejího použití. Žádná z karet zásadu sama nezakládá. Každá zásada je doložena **doslovnou citací** z kapitoly; u každé citace je uveden soubor a paragraf a rozlišeno, zda jde o znění vyhlášky, nebo o text výkladu. U zásad bez vztahu ke kartě (zásady 3, 4, 5, 7 a 8) je namístě poctivě uvést, že judikatorní opora v místních zdrojích chybí.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení. Vyhláška jako jednací řád zásady insolvenčního řízení nezakládá — ty stanoví § 5 IZ —, ale promítá je do procesní formy jednotlivých úkonů.
 
@@ -53,6 +53,8 @@ Stejně u vyrozumění o popření pohledávky: „Vyhláška proto může urči
 
 Praktickým důsledkem zásady je, že při každém střetu vyhlášky se zákonem — zastaralé poučení v § 13 odst. 2, povinnost vyhotovení v § 5 odst. 1, nezveřejňování příloh v § 9 — rozhoduje znění IZ a vyhláška se vykládá tak, aby s ním byla v souladu.
 
+**Místní judikatura.** Zásadu konkrétně dokládá karta [NS 29 NSCR 89/2021](judikatura/NS-29-NSCR-89-2021.md), vložená u § 13: popřel-li nevykonatelnou pohledávku na přezkumu před schválením oddlužení dlužník, „musí vyrozumění insolvenčního správce o popření nevykonatelné pohledávky dle § 197 odst. 2 insolvenčního zákona obsahovat nad rámec základních náležitostí podle § 13 vyhlášky č. 311/2007 Sb. též poučení o tom, že žalobu o určení pravosti, výše a pořadí pohledávky je nutno podat proti dlužníku“. Obsah poučení tedy určuje zákon a text vyhlášky je jen minimem. Nepřímo se zásada projevuje i v kartě [NS 29 ICdo 154/2020](judikatura/NS-29-ICdo-154-2020.md) (u § 16 a § 18), podle níž se pravidlo o počítání lhůty od právní moci vykládá prostřednictvím § 74 odst. 2 IZ. Hranice: obě karty vykládají především IZ; o mezích zmocnění ani o neaplikaci vyhlášky podle čl. 95 odst. 1 Ústavy se nevyslovují.
+
 ## 2. Časová přesnost a rozhodnost okamžiku zveřejnění
 
 **Zakotvení:** § 2, § 3, § 16
@@ -76,6 +78,8 @@ Vyhláška však okamžik účinků sama neurčuje; jen jej zachycuje a zajišť
 > — [01-jednaci-rad-insolvencni-rizeni.md](01-jednaci-rad-insolvencni-rizeni.md), § 3 (výklad)
 
 Obdobně u doložky: „Doložka je deklaratorní: účinky doručení či zveřejnění nastávají ze zákona okamžikem zveřejnění, nikoli vyznačením doložky." ([01-jednaci-rad-insolvencni-rizeni.md](01-jednaci-rad-insolvencni-rizeni.md), § 16, výklad). Praktickým důsledkem je, že účastník musí okamžik účinků vždy ověřit v insolvenčním rejstříku; vyznačení na písemnosti je osvědčením, které lze vyvrátit, nikoli zdrojem účinků.
+
+**Místní judikatura.** Karta [NS 29 ICdo 154/2020](judikatura/NS-29-ICdo-154-2020.md), vložená u § 16, zásadu zpřesňuje: okamžik zveřejnění není pro každého adresáta počátkem lhůty, neboť je-li den právní moci usnesení současně dnem jeho doručení zveřejněním, běží osobě, jíž má být usnesení doručeno i zvláštním způsobem až po doručení vyhláškou, lhůta počítaná od právní moci „ode dne doručení usnesení zvláštním způsobem“. Karta zároveň ukazuje, že nesprávně vyznačená doložka právní moci se nemusí obrátit proti tomu, kdo se jí řídil: „Lhůta k podání žaloby přitom neskončí dříve, než dnem, kdy insolvenční soud uvedené usnesení opatří doložkou právní moci.“ Karta [NS 29 ICdo 88/2023](judikatura/NS-29-ICdo-88-2023.md), vložená u § 13, naopak vymezuje zveřejnění, které rozhodné není: „Na běh lhůty k podání žaloby o určení pravosti a výše nevykonatelné pohledávky popřené insolvenčním správcem nemá žádný vliv okamžik zveřejnění protokolu o přezkumném jednání“. Hranice: obě karty vykládají IZ, nikoli vyhlášku; druhý závěr karty 29 ICdo 154/2020 se týká doložky právní moci, nikoli doložky okamžiku zveřejnění podle § 16, takže na pravidle, že doložka podle § 16 je vyvratitelným osvědčením, nic nemění.
 
 ## 3. Zákonný soudce a písemnost opatření předsedy soudu
 
@@ -187,7 +191,9 @@ Poučení však zákonné požadavky jen zprostředkuje; nemůže je měnit. U v
 >
 > — [01-jednaci-rad-insolvencni-rizeni.md](01-jednaci-rad-insolvencni-rizeni.md), § 8 (výklad)
 
-Praktickým důsledkem je dvojí: správce musí poučení formulovat podle aktuálního znění IZ (zejména u oddlužení a u odkazu na obchodní zákoník v § 13 odst. 2), a adresát vadného poučení by neměl spoléhat na to, že lhůta nezačala běžet — v pochybnostech je bezpečnější podat žalobu v nejkratší možné lhůtě.
+Praktickým důsledkem je dvojí: správce musí poučení formulovat podle aktuálního znění IZ (zejména u oddlužení — včetně žalovaného při popření dlužníkem — a u odkazu na obchodní zákoník v § 13 odst. 2), a adresát vadného poučení by neměl spoléhat na to, že lhůta nezačala běžet — v pochybnostech je bezpečnější podat žalobu v nejkratší možné lhůtě.
+
+**Místní judikatura.** Zásadu přímo dokládají dvě karty vložené u § 13. Karta [NS 29 Cdo 3582/2010](judikatura/NS-29-Cdo-3582-2010.md) váže ochranu na skutečně poskytnuté poučení, nikoli na pouhou přítomnost věřitele: písemné vyrozumění „musí insolvenční správce zaslat nejen těm věřitelům popřené nevykonatelné pohledávky, kteří se přezkumného jednání nezúčastnili, nýbrž i těm věřitelům popřené nevykonatelné pohledávky, kterým se - ač byli přítomni - náležitého poučení při přezkumném jednání nedostalo“. Karta [NS 29 NSCR 89/2021](judikatura/NS-29-NSCR-89-2021.md) vyžaduje, aby poučení odpovídalo skutečné procesní situaci (žaloba proti dlužníku a počátek lhůty v oddlužení), i když tím přesahuje text § 13. Hranice: karta 29 Cdo 3582/2010 je z 20. 1. 2011, tedy z doby před novelou vyhláškou č. 70/2011 Sb., a vykládá § 197 odst. 2 IZ; karta 29 NSCR 89/2021 se týká jen popření dlužníkem v oddlužení na přezkumu před schválením oddlužení. Následky vadného poučení ani jedna karta obecně neřeší, proto doporučení podat žalobu v nejkratší možné lhůtě trvá. K zásadě 6 se vztahuje i karta [NS 29 ICdo 88/2023](judikatura/NS-29-ICdo-88-2023.md): poučení správně neodkazuje na zveřejnění protokolu o přezkumném jednání, protože to na běh lhůty vliv nemá.
 
 ## 7. Řízený přístup k citlivým podkladům
 
